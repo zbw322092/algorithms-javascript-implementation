@@ -1,0 +1,9 @@
+{
+  "name": "algorithms-javascript-implementation",
+  "version": "1.0.0",
+  "description": "basic algorithms knowledge and implementation in js",
+  "main": "index.js",
+  "repository": "https://github.com/zbw322092/algorithms-javascript-implementation.git",
+  "author": "Bowen Zhong <bz4e14@soton.ac.uk>",
+  "license": "MIT"
+}
